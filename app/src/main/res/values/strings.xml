@@ -6,7 +6,7 @@
     <string name="books">List of Books</string>
     <string name="scan">Scan/Add a Book</string>
     <string name="about">About this App</string>
-    <string name="api_key" translatable="false">AIzaSyBwinbTNC18ey2KvH6U-59aMhu9_ZeShGg</string>
+    <string name="api_key" translatable="false"></string>
 
     <string name="navigation_drawer_open" >Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -47,5 +47,7 @@
     <string name="no_data" translatable="false">No books have been loaded. Use the Scan/Add Books menu to add</string>
 <!-- TODO: Remove or change this placeholder text . No NEED!! -->
     <string name="about_text">This application gets book information from a Google API. All titles, cover images, and author information come from there.
-    The original version of this app was built by Sascha Jaschke, and a modified version is given to students in the Udacity Android Nanodegree program. </string>
+    The original version of this app was built by Sascha Jaschke, and a modified version is given to students in the Udacity Android Nanodegree program.
+    If you are using a Samsung device you must have a flash. Simply point at the code and wait until the box overlays the bar code and then simply tap on the
+    overlay.</string>
 </resources>
